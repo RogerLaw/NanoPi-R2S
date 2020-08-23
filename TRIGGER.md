@@ -1,3 +1,4 @@
 # 编辑这个文件，触发重新编译
 
 - Clash
+- Clash Game
