@@ -1,5 +1,6 @@
 ## 编辑这个文件，触发重新编译
 
+- 202107051917 remove resolve dns of flowoffload
 - 202107051613 remove kmod-sched-cake-oot
 - 202107051540 libcap-ng
 - 202107051335 Clash again
