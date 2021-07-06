@@ -1,5 +1,6 @@
 ## 编辑这个文件，触发重新编译
 
+- 202107061513 remove dockerman & runc
 - 202107061035 remove sed on dockerman
 - 202107051917 remove resolve dns of flowoffload
 - 202107051613 remove kmod-sched-cake-oot
